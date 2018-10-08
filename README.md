@@ -1,5 +1,5 @@
-# -DIY--AXIDRAW-
-# AXIDRAW写字机器人
+# -DIY--AXIDRAW-写字机器人
+
 ####zucciot-yangfff 暑期15天实践
  -----
 
